@@ -9,7 +9,7 @@ Total Hours: 6
 ## Usage
 Clone the repo
 ```
-git clone https://github.com/dcoates83/Technical-Test.git
+git clone https://github.com/dcoates83/CRUD-App
 ```
 Navigate to the backend
 ```
