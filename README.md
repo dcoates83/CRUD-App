@@ -4,7 +4,7 @@ Total Hours: 6
 
 ## Built With
 
-`react` `express` `mongoose` `node.js`
+`mongo` `express` `react` `node.js` 
 
 ## Usage
 Clone the repo
